@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "eb643612cbbf63903781",
+    "revision": "7cfdb1247e9f1c26b951",
     "url": "/eduapp/static/css/main.389617c5.chunk.css"
   },
   {
-    "revision": "eb643612cbbf63903781",
-    "url": "/eduapp/static/js/main.02a09919.chunk.js"
+    "revision": "7cfdb1247e9f1c26b951",
+    "url": "/eduapp/static/js/main.2d00b8ca.chunk.js"
   },
   {
     "revision": "78274917b385abbaead5",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/eduapp/static/media/Samim.cc531f95.ttf"
   },
   {
-    "revision": "b9da5e993daae7644d1d76561195b50c",
+    "revision": "8f598227caf478f4df6b2f8b5be3d50c",
     "url": "/eduapp/index.html"
   }
 ];
