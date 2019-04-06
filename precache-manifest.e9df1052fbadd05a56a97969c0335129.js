@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/iomier/eduapp/static/media/Samim.cc531f95.ttf"
   },
   {
-    "revision": "c076869a9c6a372444e4ad112b2eb6ab",
+    "revision": "a91f9c61975cc73f0ae588a0da5d2da2",
     "url": "/iomier/eduapp/index.html"
   }
 ];

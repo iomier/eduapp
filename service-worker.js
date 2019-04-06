@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/iomier/eduapp/precache-manifest.1e2ecc66614d771a88c0601bc568c545.js"
+  "/iomier/eduapp/precache-manifest.e9df1052fbadd05a56a97969c0335129.js"
 );
 
 workbox.clientsClaim();
