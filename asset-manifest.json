@@ -1,0 +1,22 @@
+{
+  "main.css": "/iomier/eduapp/static/css/main.36aad33b.chunk.css",
+  "main.js": "/iomier/eduapp/static/js/main.a6227227.chunk.js",
+  "main.js.map": "/iomier/eduapp/static/js/main.a6227227.chunk.js.map",
+  "runtime~main.js": "/iomier/eduapp/static/js/runtime~main.3cb88e8f.js",
+  "runtime~main.js.map": "/iomier/eduapp/static/js/runtime~main.3cb88e8f.js.map",
+  "static/css/2.b0a90b4b.chunk.css": "/iomier/eduapp/static/css/2.b0a90b4b.chunk.css",
+  "static/js/2.f7393edc.chunk.js": "/iomier/eduapp/static/js/2.f7393edc.chunk.js",
+  "static/js/2.f7393edc.chunk.js.map": "/iomier/eduapp/static/js/2.f7393edc.chunk.js.map",
+  "index.html": "/iomier/eduapp/index.html",
+  "precache-manifest.1e2ecc66614d771a88c0601bc568c545.js": "/iomier/eduapp/precache-manifest.1e2ecc66614d771a88c0601bc568c545.js",
+  "service-worker.js": "/iomier/eduapp/service-worker.js",
+  "static/css/2.b0a90b4b.chunk.css.map": "/iomier/eduapp/static/css/2.b0a90b4b.chunk.css.map",
+  "static/css/main.36aad33b.chunk.css.map": "/iomier/eduapp/static/css/main.36aad33b.chunk.css.map",
+  "static/media/Styles.css": "/iomier/eduapp/static/media/Samim.fa7346ef.woff",
+  "static/media/bighis.svg": "/iomier/eduapp/static/media/bighis.b94760ca.svg",
+  "static/media/book.svg": "/iomier/eduapp/static/media/book.8a00b330.svg",
+  "static/media/gears.svg": "/iomier/eduapp/static/media/gears.4032941b.svg",
+  "static/media/group.svg": "/iomier/eduapp/static/media/group.e37982bc.svg",
+  "static/media/science.svg": "/iomier/eduapp/static/media/science.61358383.svg",
+  "static/media/stats.svg": "/iomier/eduapp/static/media/stats.ef5e3d26.svg"
+}
